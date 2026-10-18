@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Skeptical",
+            "link": "https://youtu.be/LJYDN_RYidI",
+            "percent": 100,
+            "hz": 540
+        }
     ]
 }
