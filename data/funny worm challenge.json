@@ -9,6 +9,12 @@
     "password": "Free To Copy",
     "records": [
         {
+            "user": "Skeptical",
+            "link": "https://youtu.be/rHblzUykbv0",
+            "percent": 100,
+            "hz": 240
+        },
+        {
             "user": "Barts0",
             "link": "https://youtu.be/bM_agqAcDBo",
             "percent": 100,
