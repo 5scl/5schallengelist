@@ -1,0 +1,18 @@
+{
+    "id": 150897853,
+    "name": "funny worm challenge",
+    "author": "Jubert",
+    "creators": [],
+    "verifier": "Jubert",
+    "verification": "https://youtu.be/bM_agqAcDBo",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Barts0",
+            "link": "https://youtu.be/bM_agqAcDBo",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
